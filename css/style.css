@@ -4,7 +4,7 @@ body{
 .container{
     width: 700px;
     margin: auto;
-    background-color:rgb(226, 52, 52);
+    background-color:white(226, 52, 52);
 }
 header h1{
     font-size: 50px;
@@ -16,13 +16,14 @@ header h1{
 }
 .cover{
     height: 270px;
-    width: 540px;
+    width: 600px;
     margin: auto;
     background-image: url(/img/misteri-kematian-tan-malaka-antara-petok-atau-selopanggung.jpg);
 }
 .content h1{
     font-size: 40px;
     margin-left: 30px;
+    height: 300px; width: 300px
 }
 .content h4{
     margin-left: 30px;
